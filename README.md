@@ -1,2 +1,2 @@
-# git-exam-2020-Ubeda interesa
-Examen de Git - Entornos de Desarrollo - 1º DAM (Curso 20-21)
+# Ejercicio 1 - Web turística sobre Úbeda
+
